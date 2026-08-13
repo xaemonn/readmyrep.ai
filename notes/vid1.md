@@ -31,3 +31,4 @@ after 2 or 3 mins you will get notification, i noticed you are running
 do u want to track this exercise. this functionality is only for more cardio
 like exrecises. not for strength training yet.
 using accelerometer and gyroscope data
+
