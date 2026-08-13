@@ -58,9 +58,3 @@ pip install -r requirements.txt
 ## Data
 
 Wristband accelerometer (12.500 Hz) and gyroscope (25.000 Hz) recordings collected during barbell training sessions, labeled by exercise and weight category (heavy / medium).
-
-## Acknowledgements
-
-Built while following [Dave Ebbelaar's](https://www.youtube.com/@daveebbelaar) full machine learning project series, based on the book *Machine Learning for the Quantified Self* by Hoogendoorn & Funk.
-
-Project structure follows [daveebbelaar/data-science-template](https://github.com/daveebbelaar/data-science-template), itself based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
