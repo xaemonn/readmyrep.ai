@@ -16,7 +16,7 @@ These double as **interview revision material** — each file ends with an "Inte
 |---|---|---|
 | 1 | Introduction, goal, quantified self | [vid1.md](vid1.md) |
 | 2 | Converting raw data into a single dataset | [vid2.md](vid2.md) |
-| 3 | Visualising data | — |
+| 3 | Visualising data | [vid3.md](vid3.md) |
 | 4 | Outlier detection | — |
 | 5 | Feature engineering | — |
 | 6 | Predictive modelling | — |
